@@ -1,2 +1,2 @@
-# Sprint-1
+# Final Sprint
 Welcome, Initial Configuration, and Game Screen 
